@@ -23,4 +23,4 @@
  
   ![Snake animation](https://github.com/diogo-kappaun/diogo-kappaun/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+</div>   
