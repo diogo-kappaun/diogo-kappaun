@@ -4,7 +4,6 @@ import Desenvolvedor from "diogo-kappaun.js";
 class SobreMim extends Desenvolvedor {
   nome = "Diogo Kappaun";
   area = "Desenvolvedor Front-End";
-  trabalho = null;
   local = "Maravilha-SC";
 }
 
