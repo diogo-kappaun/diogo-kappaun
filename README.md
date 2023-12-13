@@ -9,6 +9,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["HTML, CSS, JS"];
+  frameworks = ["React, Tailwind"];
 }
 ```
 
