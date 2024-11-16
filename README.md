@@ -44,7 +44,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-![StyledComponents](https://img.shields.io/badge/-styledcomponents-333333?style=flat&logo=styledcomponents)
+![StyledComponents](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styledcomponents)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
