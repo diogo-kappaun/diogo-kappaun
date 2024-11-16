@@ -7,6 +7,7 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
+
 - 👨🏻‍🚀 Sou um desenvolvedor web, apaixonado por criar interfaces de usuário dinâmicas e intuitivas. Com uma forte base em tecnologias modernas e uma abordagem orientada a resultados, busco constantemente maneiras de inovar e melhorar a experiência do usuário. Através da combinação de habilidades técnicas e um olhar atento e detalhista para o design, meu objetivo é entregar soluções que não apenas funcionem bem, mas que também encantem os usuários.
 
 - 📈 Minha história na programação começou no Discord. Motivado pela ideia de melhorar a usabilidade dos servidores, comecei a criar bots para atender a essa necessidade. Posteriormente, entrei na área de desenvolvimento web e foi amor à primeira vista. Desde então, dedico-me 100% à programação, buscando melhorar dia após dia."
